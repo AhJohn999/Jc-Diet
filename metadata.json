@@ -1,0 +1,6 @@
+{
+  "name": "JC Diet - Diet & Progress Journal",
+  "description": "An elegant pink-themed personal diet and body progress tracker over weeks and months, with local database persistence, analytics, and meal logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
